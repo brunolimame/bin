@@ -1,0 +1,1 @@
+@D:\wamp64\bin\php\php7.1.33\php.exe %*
